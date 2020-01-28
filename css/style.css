@@ -632,3 +632,7 @@ nav#footer{
 	-o-transition: background-color 0.3s ease;
 	transition: background-color 0.3s ease;
 }
+
+img{
+     height: 350px;
+}
